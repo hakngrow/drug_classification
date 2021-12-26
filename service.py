@@ -47,4 +47,4 @@ def api_all():
 
     return(jsonify(recommended_drug = drug))
 
-app.run()
+app.run(port=80)
