@@ -20,3 +20,7 @@ The Python code to develop a predictive machine learning algorithm to classify d
 
 ```
  
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hakngrow/drug_classification/main?urlpath=%2Fclient.ipynb)
+ 
+ .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/hakngrow/drug_classification/main?urlpath=%2Fclient.ipynb
