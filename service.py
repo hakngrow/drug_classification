@@ -46,5 +46,3 @@ def api_all():
     drug = predict_drug(Age, Sex, BP, Cholesterol, Na_to_K)
 
     return(jsonify(recommended_drug = drug))
-
-app.run(port=80)
